@@ -46,15 +46,25 @@ This is the first stage of the project where we get acquainted with the **COVID-
 
 ***
 
+This is the second stage of the project where dig into data modeling and hypothesis testing. With the preliminary intuitions we had in stage 1, we are going to develop a formal hypothesis and use statistical modeling to prove or disprove. We are going to compare the weekly statistics by using mean, median, mode for our 3 main variables and plot the daily trends in a meaningful way. We will try to search correlation between different data sets. Also, we will be comparing the data of the United States against other countries in the world with the **World dataset**.
+
+#### COVID-19 Worldwide Dataset.
+
+  + [Worldwide Dataset](#https://ourworldindata.org/coronavirus-source-data)
+
 <a name="stage-3"></a>
 ### Stage III - Basic Machine Learning
 
 ***
 
+In this stage, we dive into developing linear and non-linear regression models for predicting the cases and deaths in the United States. Machine learning and statistical models will be used to predict the trend of COVID-19 cases/deaths. We will plot trend line and forecast our prediction of 1 week ahead. Confidence intervals will be introduced to analyze the error in prediction. This is also the stage of the project where we perform hypothesis tests on the questions we identified in stage 2 of the project.
+
 <a name="stage-4"></a>
 ### Stage IV - Dashboard
 
 ***
+
+With the use of frameworks like Plotly along with Dash, we intend to develop a simple interactive dashboard for our fourth and final stage of the project. We will allow for the selection of dates, states and linear or log mode to discover the data we have and have a main graph that displays these queries. Finally, we will do a presentation to present our overall project and showcase our hard-work.
 
 
 <a name="tech-used"></a>
