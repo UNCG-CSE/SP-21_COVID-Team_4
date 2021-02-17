@@ -7,18 +7,18 @@
 
 ***
 
-* #### [Project Description](#project-description)
-* #### [Stage I - Data and Project Understanding](#stage-i-data-and-project-understanding)
-  * ###### [COVID-19 Dataset](#covid-19-dataset)
-* #### [Stage II - Data Modeling and Hypothesis Testing](#stage-2)
-* #### [Stage III - Basic Machine Learning](#stage-3)
-* #### [Stage IV - Dashboard](#stage-4)
-* #### [Technologies Used](#tech-used)
-* #### [Project Status](#status)
-* #### [Sources](#sources)
+* #### [Project Description](#Project-description)
+* #### [Stage I - Data and Project Understanding](#Stage-i-data-and-project-understanding)
+  * ###### [COVID-19 Dataset](#Covid-19-dataset)
+* #### [Stage II - Data Modeling and Hypothesis Testing](#Stage-2)
+* #### [Stage III - Basic Machine Learning](#Stage-3)
+* #### [Stage IV - Dashboard](#Stage-4)
+* #### [Technologies Used](#Tech-used)
+* #### [Project Status](#Status)
+* #### [Sources](#Sources)
 
 
-<a name="project-description"></a>
+<a name="Project-description"></a>
 ### Project Description
 
 ***
@@ -27,21 +27,21 @@ This project aims to examine COVID-19 data from the United States in order to vi
 
 With this data, we plan to develop linear and non-linear regression models for predicting the number of cases of and the deaths due to COVID-10 in the United States. We aim to process the data using statistical models and present it in a meaningful way using graphs with a trendline, confidence intervals, and a prediction path. After plotting daily trends, we intend to show our results on a main graph that shows past trends and the forecast of future trends. We will plot cases and deaths on a map of the United States using mean county population to normalize for cases and deaths.
 
-<a name="stage-i-data-and-project-understanding"></a>
+<a name="Stage-i-data-and-project-understanding"></a>
 ### Stage I - Data and Project Understanding
 
 ***
 
 This is the first stage of the project where we get acquainted with the **COVID-19 dataset**. These datasets are provided by [USAFacts](#https://usafacts.org/). We have utilized the daily county-level tracker of COVID-19 cases in the US. You can use the links below to download the granular level data from USAFacts.
 
-<a name="covid-19-dataset"></a>
+<a name="Covid-19-dataset"></a>
 #### COVID-19 Dataset
 
   + [Stats by Number of Cases](#https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_confirmed_usafacts.csv)
   + [Stats by Number of Deaths](#https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_deaths_usafacts.csv)
   + [Stats by Population](#https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_county_population_usafacts.csv)
   
-<a name="stage-2"></a>
+<a name="Stage-2"></a>
 ### Stage II - Data Modeling and Hypothesis Testing
 
 ***
@@ -52,14 +52,14 @@ This is the second stage of the project where dig into data modeling and hypothe
 
   + [Worldwide Dataset](#https://ourworldindata.org/coronavirus-source-data)
 
-<a name="stage-3"></a>
+<a name="Stage-3"></a>
 ### Stage III - Basic Machine Learning
 
 ***
 
 In this stage, we dive into developing linear and non-linear regression models for predicting the cases and deaths in the United States. Machine learning and statistical models will be used to predict the trend of COVID-19 cases/deaths. We will plot trend line and forecast our prediction of 1 week ahead. Confidence intervals will be introduced to analyze the error in prediction. This is also the stage of the project where we perform hypothesis tests on the questions we identified in stage 2 of the project.
 
-<a name="stage-4"></a>
+<a name="Stage-4"></a>
 ### Stage IV - Dashboard
 
 ***
@@ -67,7 +67,7 @@ In this stage, we dive into developing linear and non-linear regression models f
 With the use of frameworks like Plotly along with Dash, we intend to develop a simple interactive dashboard for our fourth and final stage of the project. We will allow for the selection of dates, states and linear or log mode to discover the data we have and have a main graph that displays these queries. Finally, we will do a presentation to present our overall project and showcase our hard-work.
 
 
-<a name="tech-used"></a>
+<a name="Tech-used"></a>
 ### Technologies Used
 
 ***
@@ -76,7 +76,7 @@ With the use of frameworks like Plotly along with Dash, we intend to develop a s
 + Jupyter Notebook
 + Pandas
 
-<a name="status"></a>
+<a name="Status"></a>
 ### Project Status
 
 ***
@@ -89,7 +89,7 @@ Stage III: Incomplete
 
 Stage IV: Incomplete
 
-<a name="sources"></a>
+<a name="Sources"></a>
 ### Sources
 
 ***
