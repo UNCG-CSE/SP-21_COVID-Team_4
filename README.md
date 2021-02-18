@@ -9,7 +9,7 @@
 
 + #### [Project Description](#Project-description)
 + #### [Stage I - Data and Project Understanding](#Stage-i-data-and-project-understanding)
-  * ###### [COVID-19 Dataset](#Covid-19-dataset)
+  * ##### [COVID-19 Dataset](#Covid-19-dataset)
 + #### [Stage II - Data Modeling and Hypothesis Testing](#Stage-2)
 + #### [Stage III - Basic Machine Learning](#Stage-3)
 + #### [Stage IV - Dashboard](#Stage-4)
@@ -41,7 +41,7 @@ This is the first stage of the project where we get acquainted with the **COVID-
   + [Stats by Number of Cases](https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_confirmed_usafacts.csv)
   + [Stats by Number of Deaths](https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_deaths_usafacts.csv)
   + [Stats by Population](https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_county_population_usafacts.csv)
-  
+
 <a name="Stage-2"></a>
 ### Stage II - Data Modeling and Hypothesis Testing
 
@@ -52,7 +52,7 @@ This is the second stage of the project where dig into data modeling and hypothe
 
 #### COVID-19 Worldwide Dataset.
 
-  + [Worldwide Dataset](#https://ourworldindata.org/coronavirus-source-data)
+  + [Worldwide Dataset](https://ourworldindata.org/coronavirus-source-data)
 
 <a name="Stage-3"></a>
 ### Stage III - Basic Machine Learning
