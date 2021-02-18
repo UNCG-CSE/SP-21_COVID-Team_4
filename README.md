@@ -7,9 +7,9 @@
 
 ***
 
-+ #### [Project Description](#Project-description)
++ #### [Project Description](#Project-descriptions)
 + #### [Stage I - Data and Project Understanding](#Stage-i-data-and-project-understanding)
-  * ##### [COVID-19 Dataset](#Covid-19-dataset)
+  * ##### [COVID-19 Dataset](#Covid-19-datasets)
 + #### [Stage II - Data Modeling and Hypothesis Testing](#Stage-2)
 + #### [Stage III - Basic Machine Learning](#Stage-3)
 + #### [Stage IV - Dashboard](#Stage-4)
@@ -19,7 +19,7 @@
 
 
 
-<a name="Project-description"></a>
+<a name="Project-descriptions"></a>
 ### Project Description
 
 ***
@@ -35,7 +35,7 @@ With this data, we plan to develop linear and non-linear regression models for p
 
 This is the first stage of the project where we get acquainted with the **COVID-19 dataset**. These datasets are provided by [USAFacts](https://usafacts.org/). We have utilized the daily county-level tracker of COVID-19 cases in the US. You can use the links below to download the granular level data from USAFacts.
 
-<a name="Covid-19-dataset"></a>
+<a name="Covid-19-datasets"></a>
 #### COVID-19 Dataset
 
   + [Stats by Number of Cases](https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_confirmed_usafacts.csv)
