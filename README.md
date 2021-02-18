@@ -1,5 +1,5 @@
-## **Covid Data Analysis** - Group Project (CSC-405-605_Spring_2021)
-
+# Covid Data Analysis - Group Project (CSC-405-605_Spring_2021)
+***
 
 #### An analytical system to understand and visualize the patterns of COVID-19 effect and spread across different counties of the United States.
 
@@ -11,9 +11,11 @@
 + #### [Stage I - Data and Project Understanding](#Stage-i-data-and-project-understanding)
   * ##### [COVID-19 Dataset](#Covid-19-datasets)
 + #### [Stage II - Data Modeling and Hypothesis Testing](#Stage-2)
+  * ##### [COVID-19 Worldwide Dataset](#covid-worldwide-dataset)
 + #### [Stage III - Basic Machine Learning](#Stage-3)
 + #### [Stage IV - Dashboard](#Stage-4)
-+ #### [Technologies Used](#Tech-used)
++ #### [Technologies](#Tech-used)
++ #### [Project Setup](#setup)
 + #### [Project Status](#Status)
 + #### [Sources](#source)
 
@@ -36,7 +38,7 @@ With this data, we plan to develop linear and non-linear regression models for p
 This is the first stage of the project where we get acquainted with the **COVID-19 dataset**. These datasets are provided by [USAFacts](https://usafacts.org/). We have utilized the daily county-level tracker of COVID-19 cases in the US. You can use the links below to download the granular level data from USAFacts.
 
 <a name="Covid-19-datasets"></a>
-#### COVID-19 Dataset
+##### COVID-19 Dataset
 
   + [Stats by Number of Cases](https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_confirmed_usafacts.csv)
   + [Stats by Number of Deaths](https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_deaths_usafacts.csv)
@@ -50,7 +52,8 @@ This is the first stage of the project where we get acquainted with the **COVID-
 
 This is the second stage of the project where dig into data modeling and hypothesis testing. With the preliminary intuitions we had in stage 1, we are going to develop a formal hypothesis and use statistical modeling to prove or disprove. We are going to compare the weekly statistics by using mean, median, mode for our 3 main variables and plot the daily trends in a meaningful way. We will try to search correlation between different data sets. Also, we will be comparing the data of the United States against other countries in the world with the **World dataset**.
 
-#### COVID-19 Worldwide Dataset.
+<a name="covid-worldwide-dataset"></a>
+##### COVID-19 Worldwide Dataset.
 
   + [Worldwide Dataset](https://ourworldindata.org/coronavirus-source-data)
 
@@ -72,20 +75,34 @@ With the use of frameworks like Plotly along with Dash, we intend to develop a s
 
 
 <a name="Tech-used"></a>
-### Technologies Used
+### Technologies:
 
 ***
 
-+ Python - Version 3.7
-+ Jupyter Notebook
-+ Pandas
++ Python: 3.7
++ Jupyter Notebook: 6.2.0
+
+<a name="setup"></a>
+### Project Setup:
+***
+To run this project locally, make sure you have [python](https://wiki.python.org/moin/BeginnersGuide/Download), [pip](https://pip.pypa.io/en/stable/installing/) and [jupyter notebook](https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html) installed. You will also need some additional python libraries to run the project properly. You can install all libraries using the code below. On your project parent directory, run:
+
+```
+pip install -r requirements.txt
+```
+
+To open jupyter notebook, while you are in the project's parent directory, run:
+```
+jupyter notebook
+```
+
 
 <a name="Status"></a>
 ### Project Status
 
 ***
 
-Stage I: Complete
+Stage I: **Complete**
 
 Stage II: Incomplete
 
