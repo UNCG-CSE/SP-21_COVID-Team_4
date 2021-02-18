@@ -15,7 +15,7 @@
 + #### [Stage IV - Dashboard](#Stage-4)
 + #### [Technologies Used](#Tech-used)
 + #### [Project Status](#Status)
-+ #### [Sources](#Sources)
++ #### [Sources](#source)
 
 
 
@@ -95,7 +95,7 @@ Stage IV: Incomplete
 
 
 
-<a name="Sources"></a>
+<a name="source"></a>
 ### Sources
 
 ***
