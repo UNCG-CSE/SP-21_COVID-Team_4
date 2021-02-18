@@ -1,5 +1,5 @@
-# Covid Data Analysis - Group Project (CSC-405-605_Spring_2021)
-***
+## Covid Data Analysis - Group Project (CSC-405-605_Spring_2021)
+
 
 #### An analytical system to understand and visualize the patterns of COVID-19 effect and spread across different counties of the United States.
 
