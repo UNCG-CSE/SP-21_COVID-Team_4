@@ -44,6 +44,17 @@ This is the first stage of the project where we get acquainted with the **COVID-
   + [Stats by Number of Deaths](https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_deaths_usafacts.csv)
   + [Stats by Population](https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_county_population_usafacts.csv)
 
+Stage I has three tasks:<br/>
+**Task 1**:
+>&emsp;Create a README.md file for the entire project. <done style='font-size: 150%'>&#10003;</done>
+
+**Task 2**:
+>&emsp;Look at the COVID-19 dataset and understand the type of variables present. <done style='font-size: 150%'>&#10003;</done></p>
+
+**Task 3**:
+>&emsp;Display COVID-19 dataset in a notebook as dataframe and merge them to create super dataframe. <done style='font-size: 150%'>&#10003;</done></p>
+
+
 <a name="Stage-2"></a>
 ### Stage II - Data Modeling and Hypothesis Testing
 
