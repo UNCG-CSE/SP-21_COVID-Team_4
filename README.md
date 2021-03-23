@@ -115,7 +115,7 @@ jupyter notebook
 
 Stage I: **Complete**
 
-Stage II: Incomplete
+Stage II: **Complete**
 
 Stage III: Incomplete
 
