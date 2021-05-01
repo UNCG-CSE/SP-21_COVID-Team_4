@@ -20,11 +20,9 @@ body {
 
 .header-title {
     color: #FFFFFF;
-    font-size: 48px;
-    font-weight: bold;
+    font-size: 64px;
     text-align: center;
-    margin: 0 auto;
-    font-family: 'Courier New', monospace;
+    margin-bottom: 100px;
 }
 
 .header-description {
@@ -49,7 +47,7 @@ body {
 }
 
 .menu {
-    height: 115px;
+    height: 175px;
     width: 1280px;
     display: flex;
     justify-content: space-evenly;
@@ -77,4 +75,21 @@ body {
     margin-bottom: 6px;
     font-weight: bold;
     color: #079A82;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    border: 2px;
+}
+
+.flex-child:first-child {
+    margin-right: 25px;
+}
+
+.give-space{
+    margin-bottom: 20px;
 }
