@@ -117,9 +117,9 @@ Stage I: **Complete**
 
 Stage II: **Complete**
 
-Stage III: Incomplete
+Stage III: **Complete**
 
-Stage IV: Incomplete
+Stage IV: **Complete**
 
 
 
